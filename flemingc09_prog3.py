@@ -2,8 +2,7 @@
 Author:  Camellia Fleming
 Course:  CSC 121
 Assignment:  Lab Lesson 09 - Part 3
-Description:  Using random list from part 2, create 2 empty lists and append even
-and odd numbers to their respective lists
+Description:  Using random list from part 2, create 2 empty lists and append even and odd numbers to their respective lists
 """
 import random
 
